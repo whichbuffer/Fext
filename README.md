@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="#" rel="noopener">
+ <img src="https://i.ibb.co/WzGBr08/icon.png"></a>
+</p>
+
 # Fext
 Secure and Serverless File Encryption.
 
